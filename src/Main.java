@@ -6,9 +6,9 @@ public class Main {
         Random gerador = new Random();
 
         String mensagemInicial = """
-                Bem vindo(a) ao Jogo da Advinhação!
+                Bem vindo(a) ao Jogo da Adivinhação!
                 
-                Seu objetivo no jogo é advinhar qual número entre 1-100 eu estou pensando.
+                Seu objetivo no jogo é adivinhar qual número entre 1-100 eu estou pensando.
                 Para isso, você terá 5 tentativas.
                 Vamos lá?
                 / Pressione s(sim)/n(não) /
